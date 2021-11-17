@@ -1,3 +1,3 @@
 # cs-con-odbc-excel-select
 
-## [リソースはこちら](https://github.com/winofsql/resource-winofsql)
+## [リソースはこちら ( resource-winofsql )](https://github.com/winofsql/resource-winofsql)
