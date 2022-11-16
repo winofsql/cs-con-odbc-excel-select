@@ -18,7 +18,7 @@ namespace cs_con_odbc_excel_select
             // *************************************
             myConAccess = new OdbcConnection();
             myConAccess.ConnectionString =
-                "Provider=MSDASQL;DSN=H-XLS";
+                "Provider=MSDASQL;DSN=H-XLSX";
                 // $"Provider=MSDASQL;Driver={{Microsoft Excel Driver (*.xls, *.xlsx, *.xlsm, *.xlsb)}};dbq={dbpath};";
                 // $"Provider=MSDASQL;DSN=H-XLS;DATABASE={dbpath}";
 
