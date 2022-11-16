@@ -20,7 +20,7 @@ namespace cs_con_odbc_excel_select
             myConAccess.ConnectionString =
                 "Provider=MSDASQL;DSN=H-XLSX";
                 // $"Provider=MSDASQL;Driver={{Microsoft Excel Driver (*.xls, *.xlsx, *.xlsm, *.xlsb)}};dbq={dbpath};";
-                // $"Provider=MSDASQL;DSN=H-XLS;DATABASE={dbpath}";
+                // $"Provider=MSDASQL;DSN=H-XLSX;DATABASE={dbpath}";
 
             // 接続を開く
             try
